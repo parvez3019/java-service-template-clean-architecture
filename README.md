@@ -210,7 +210,7 @@ See [docs/local-setup.md](docs/local-setup.md) and [`.env.example`](.env.example
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), and [SECURITY.md](SECURITY.md).
+See [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md), [docs/CODE_OF_CONDUCT.md](docs/CODE_OF_CONDUCT.md), and [docs/SECURITY.md](docs/SECURITY.md).
 
 Template change history (by date): [CHANGELOG.md](CHANGELOG.md)
 
